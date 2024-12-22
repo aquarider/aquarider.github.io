@@ -1,5 +1,7 @@
 # Programming Resources
 
+[[TOC]]
+
 ## General Programming
 
 - [Beej's Guides](https://beej.us/guide/)
