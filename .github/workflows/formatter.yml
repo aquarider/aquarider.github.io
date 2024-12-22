@@ -14,7 +14,6 @@ jobs:
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - run: sudo apt-get install -y tidy
       - name: List files in the repository
-        run: |
-          ls ${{ github.workspace }}
-          tidy -im *.html
+        run: ls ${{ github.workspace }}
+      - run: tidy -im *.html
       - run: echo "🍏 This job's status is ${{ job.status }}."
