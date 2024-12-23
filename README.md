@@ -1,4 +1,4 @@
-# Programming Resources
+# Developer Resources
 
 ## General Programming
 
@@ -13,3 +13,5 @@
 
 - [Shellcodes](https://shell-storm.org)
 - [GTFObins](https://gtfobins.github.io)
+- [pwntools](https://docs.pwntools.com/en/stable/intro.html)
+- [pwn.college](https://pwn.college)
