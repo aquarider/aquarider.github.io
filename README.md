@@ -13,5 +13,9 @@
 
 - [Shellcodes](https://shell-storm.org)
 - [GTFObins](https://gtfobins.github.io)
+
+## Reverse Engineering
+
 - [pwntools](https://docs.pwntools.com/en/stable/intro.html)
 - [pwn.college](https://pwn.college)
+- [Georgia Tech: Information Security Lab](https://tc.gts3.org/cs6265/tut/tut00-intro.html)
