@@ -1,4 +1,4 @@
-# Developer Resources - Windows
+# Security Resources - Windows
 
 ## Basic Settings
 
