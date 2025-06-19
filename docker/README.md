@@ -1,4 +1,4 @@
-# Developer Resources - Docker
+# Security Resources - Docker
 
 ## Basic Commands
 
